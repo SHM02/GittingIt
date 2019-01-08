@@ -1,0 +1,15 @@
+git --version
+git config --global user.name "Shubham Mittal"
+git config --global user.email  "smittal.1994"
+git config --list
+git config user.email
+git help 
+git help commit
+clear
+
+cd,ls
+pwd -> present directory
+git init -> start git repository from here
+ls -la -> shows all hidden files 
+
+git add . -> (add all of the changes we made to our project '.' - directory )
