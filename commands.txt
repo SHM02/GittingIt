@@ -23,3 +23,5 @@ ls -la -> shows all hidden files
 git log
 
 git log --author="Shubham"
+
+git status
