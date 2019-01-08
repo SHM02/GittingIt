@@ -12,11 +12,14 @@ pwd -> present directory
 git init -> start git repository from here
 ls -la -> shows all hidden files 
 
-git add . -> (add all of the changes we made to our project '.' - directory )
+[1. git add . -> (add all of the changes we made to our project '.' - directory )
 
-Now to commit; Save this point in time.
-git commit -m "This is our note"
-(-m is for message) 
+2. Now to commit; Save this point in time.
+   git commit -m "This is our note"
+   (-m is for message) 
+]
 
 (to view git commit history)
+git log
 
+git log --author="Shubham"
