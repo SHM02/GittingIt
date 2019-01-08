@@ -13,7 +13,7 @@ git init -> start git repository from here
 ls -la -> shows all hidden files 
 
 2 step process
-[1. git add . -> (add all of the changes we made to our project '.' - all changes)
+[1. git add . -> (add all of the changes we made to our project '.' - all changes in this directory)
 
 2. Now to commit; Save this point in time.
    git commit -m "This is our note"
