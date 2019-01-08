@@ -12,7 +12,8 @@ pwd -> present directory
 git init -> start git repository from here
 ls -la -> shows all hidden files 
 
-[1. git add . -> (add all of the changes we made to our project '.' - directory )
+2 step process
+[1. git add . -> (add all of the changes we made to our project '.' - all changes)
 
 2. Now to commit; Save this point in time.
    git commit -m "This is our note"
@@ -25,3 +26,5 @@ git log
 git log --author="Shubham"
 
 git status
+
+git add second.txt (working copy > staging area > repository)
