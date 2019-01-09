@@ -30,4 +30,5 @@ git status
 git add second.txt (working copy > staging area > repository)
 
 git diff
-This is good
+
+This is bash good
