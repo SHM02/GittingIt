@@ -31,4 +31,5 @@ git add second.txt (working copy > staging area > repository)
 
 git diff
 
+git diff --staged
 This is bash good
