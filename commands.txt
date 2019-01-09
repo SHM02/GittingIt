@@ -32,4 +32,6 @@ git add second.txt (working copy > staging area > repository)
 git diff
 
 git diff --staged
+
+git rm <filename>  (to delete files)
 This is bash good
