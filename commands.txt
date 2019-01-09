@@ -34,4 +34,8 @@ git diff
 git diff --staged
 
 git rm <filename>  (to delete files)
+
+Renaming -> git add <filename to be named>, git rm <previous name of file>
+OR
+git mv <filename> <new filename>
 This is bash good
