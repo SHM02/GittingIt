@@ -43,5 +43,8 @@ git checkout -- <filename> (UNDO changes i.e. Takes the working copy)
 
 UNSTAGE A FILE
 git reset HEAD <filename>
+
+git checkout <commit no> -- <filename> (to jump to a previous commit)
+
 new changes incoming
 This is bash goods
