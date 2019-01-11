@@ -46,6 +46,11 @@ git reset HEAD <filename>
 
 git checkout <commit no> -- <filename> (to jump to a previous commit)
 
+Push an existing files to a New repository-
+1. Make a new repository
+2. git remote add origin <link>
+3. git push -u origin master
+
 new changes incoming
 This is bash goods
 Github
