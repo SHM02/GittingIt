@@ -51,6 +51,11 @@ Push an existing files to a New repository-
 2. git remote add origin <link>
 3. git push -u origin master
 
+OR 
+git remote add <nickname> <URL>
+git push -u <nickname> master
+
+
 new changes incoming
 This is bash goods
 Githubs
