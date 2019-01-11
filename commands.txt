@@ -53,4 +53,4 @@ Push an existing files to a New repository-
 
 new changes incoming
 This is bash goods
-Github
+Githubs
