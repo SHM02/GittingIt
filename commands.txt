@@ -39,5 +39,6 @@ Renaming -> git add <filename to be named>, git rm <previous name of file>
 OR
 git mv <filename> <new filename>
 
+git checkout -- <filename> (UNDO changes i.e. Takes the working copy)
 new changes incoming
 This is bash good
