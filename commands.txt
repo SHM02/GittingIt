@@ -40,5 +40,8 @@ OR
 git mv <filename> <new filename>
 
 git checkout -- <filename> (UNDO changes i.e. Takes the working copy)
+
+UNSTAGE A FILE
+git reset HEAD <filename>
 new changes incoming
-This is bash good
+This is bash goods
