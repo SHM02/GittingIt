@@ -53,7 +53,7 @@ Push an existing files to a New repository-
 
 OR 
 git remote add <nickname> <URL>
-git push -u <nickname> masterremote
+git push -u <nickname> master remote
 
 
 new changes incoming
