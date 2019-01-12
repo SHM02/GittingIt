@@ -53,9 +53,12 @@ Push an existing files to a New repository-
 
 OR 
 git remote add <nickname> <URL>
-git push -u <nickname> master
+git push -u <nickname> masterremote
 
 
 new changes incoming
 This is bash goods
 Githubs
+
+
+  
