@@ -1,2 +1,2 @@
-# New-Year
+# Git Commands
 Basic Commands to use Git
