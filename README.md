@@ -1,2 +1,2 @@
 # New-Year
-hello in january
+Basic Commands to use Git
